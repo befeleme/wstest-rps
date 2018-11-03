@@ -4,4 +4,4 @@ python:
 install:
 - python -m pip install pytest
 script:
-- python -m pytest test_rps.py
+- python -m pytest test_rps.py -v
